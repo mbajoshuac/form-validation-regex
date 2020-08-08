@@ -1,3 +1,7 @@
+/*
+ * Simple Form input Regex Validator
+ */
+
 // user inputs
 var fullName = "Joshua Mba";
 var email = "joshua.mba.g20@gmail.com";
